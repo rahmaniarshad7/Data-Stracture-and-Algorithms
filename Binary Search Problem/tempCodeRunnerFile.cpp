@@ -1,0 +1,1 @@
+cout << "last occurance of " << key << " is at index " << lastocc(arr, size, key);
